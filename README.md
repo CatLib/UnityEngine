@@ -1,3 +1,5 @@
-## UnityEngine 动态链接库
+## UnityEngine Dynamic Link Library
 
-本库收集了各类版本的UnityEngine动态链接库，欢迎补充
+This library store difference versions of the UnityEngine dynamic link library for use in projects that need to compile unity dll out of the unity environment. welcome pull request.
+
+The store dll version is the latest version of the minor version.
